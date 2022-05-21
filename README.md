@@ -1,6 +1,3 @@
-![tela0](C:\Users\elina.LAPTOP-LRB8QDID\Desktop\pastaGit\tela0.jpg)
+Pagina desenvolvida exclusivamente com CSS e HTML, possui animações como
 
-![Tela1](C:\Users\elina.LAPTOP-LRB8QDID\Desktop\pastaGit\Tela1.jpg)
-
-![tela2](C:\Users\elina.LAPTOP-LRB8QDID\Desktop\pastaGit\tela2.jpg)
-
+Cards animados, menu hamburguer com animação e efeito bolha no menu
